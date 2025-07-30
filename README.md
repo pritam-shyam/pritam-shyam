@@ -1,6 +1,6 @@
 # 👋 Hi
 
-I'm a Senior Software Engineer with over 6 years of experience architecting scalable applications, leading engineering teams, and delivering robust, cross-platform solutions. I excel in full-stack development, cloud infrastructure, and DevOps, with a particular passion for building intelligent systems integrated with AI and machine learning.
+I'm a Staff Software Engineer with over 8 years of experience architecting scalable applications, leading engineering teams, and delivering robust, cross-platform solutions. I excel in full-stack development, cloud infrastructure, and DevOps, with a particular passion for building intelligent systems integrated with AI and machine learning.
 
 ## 🌟 What I Do Best:
 - Architecting and implementing scalable, maintainable software solutions
