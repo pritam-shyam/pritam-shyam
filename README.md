@@ -1,6 +1,6 @@
-# 👋 Hi
+# Hi
 
-I'm a Staff Software Engineer with over 8 years of experience architecting scalable applications, leading engineering teams, and delivering robust, cross-platform solutions. I excel in full-stack development, cloud infrastructure, and DevOps, with a particular passion for building intelligent systems integrated with AI and machine learning.
+I'm a Staff Software Engineer with 8+ years of experience architecting scalable applications, leading engineering teams, and delivering robust, cross-platform solutions. I excel in full-stack development, cloud infrastructure, and DevOps, with a particular passion for building intelligent systems integrated with AI and machine learning.
 
 ## 🌟 What I Do Best:
 - Architecting and implementing scalable, maintainable software solutions
@@ -11,9 +11,16 @@ I'm a Staff Software Engineer with over 8 years of experience architecting scala
 ## 🛠️ Tech Stack & Expertise
 
 ### Languages
-- **TypeScript / JavaScript** (Angular, React, Ionic, NestJS, Node.js)
+- **TypeScript / JavaScript**
 - **Python**
-- **C#, Java, Golang, Kotlin, Swift**
+- **C#**
+- **Java**
+- **Golang**
+- **Kotlin**
+- **Swift**
+- **COBOL**
+- **SQL**
+- **HTML/CSS**
 
 ### Frontend
 - **Next.js**
