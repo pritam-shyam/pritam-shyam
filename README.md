@@ -1,6 +1,6 @@
 # Hi
 
-I'm a Staff Software Engineer with 8+ years of experience architecting scalable applications, leading engineering teams, and delivering robust, cross-platform solutions. I excel in full-stack development, cloud infrastructure, and DevOps, with a particular passion for building intelligent systems integrated with AI and machine learning.
+I'm a Staff Software Engineer with 10+ years of experience architecting scalable applications, leading engineering teams, and delivering robust, cross-platform solutions. I excel in full-stack development, cloud infrastructure, and DevOps, with a particular passion for building intelligent systems integrated with AI and machine learning.
 
 ## 🌟 What I Do Best:
 - Architecting and implementing scalable, maintainable software solutions
@@ -52,5 +52,3 @@ I'm a Staff Software Engineer with 8+ years of experience architecting scalable 
 - Delivered complex healthcare and diagnostics solutions leveraging AWS cloud infrastructure.
 - Architected hybrid apps across iOS, Android, and PWAs, managing frontend, backend, security, and DevOps aspects.
 - Experienced in developing IoT and Ambient Computing applications, including voice assistants and intelligent health integrations.
-
-Thanks for stopping by!
